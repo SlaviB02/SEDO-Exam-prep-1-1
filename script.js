@@ -1,11 +1,12 @@
+//commit 1
 function add(a, b) {
   return a + b;
 }
-
+//commit 2
 function subtract(a, b) {
   return a - b;
 }
-
+//commit 3
 function multiply(a, b) {
   return a * b;
 }
